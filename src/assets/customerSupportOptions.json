@@ -1,0 +1,523 @@
+{
+  "data": [
+    {
+      "headingHindi": "पहले निःशुल्का सत्र में समस्या ",
+      "rank": 0,
+      "id": 256,
+      "childrenMessages": [
+        {
+          "descriptionHindi": "<ol>\t<li>होम स्क्रीन बैनर पर क्लिक करें या आप नीचे ज्योतिषी स्क्रीन के साथ चैट में &quot;फ्री&quot; बटन पर क्लिक कर सकते हैं।&nbsp;</li>\t<li>इंटेक फॉर्म भरें और विवरण जमा करें।&nbsp;</li>\t<li>कॉल या चैट सत्र के बीच चयन करें।&nbsp;</li>\t<li>अब, ज्योतिषी के जुड़ने होने की प्रतीक्षा करें। स्क्रीन पर प्रतीक्षा-समय दर्शाया जाएगा।&nbsp;</li></ol>",
+          "description": "<ol>\t<li>Click on the home screen banner or you can enter the &quot;free&quot;Chat with Astrologer screen below. You can click on the button.&nbsp;</li>\t<li>Fill the intake form and submit details.&nbsp;</li>\t<li>Choose between a call or chat session.&nbsp;</ li>\t<li>Now, wait for the astrologer to connect. Wait time will be displayed on the screen.&nbsp;</li></ol>",
+          "headingHindi": "कैसे लागू करें?",
+          "rank": 1,
+          "id": 257,
+          "childrenMessages": [],
+          "heading": "How to avail?",
+          "parentId": 256
+        },
+        {
+          "descriptionHindi": "<ol>\t<li>यह प्रति उपयोगकर्ता केवल एक बार उपलब्ध है</li>\t<li>यह सिर्फ नए उपयोगकर्ता के लिए उपलब्ध है</li></ol>",
+          "description": "<ol>\t<li>This is available only once per user</li>\t<li>This is available only to new users</li></ol>",
+          "headingHindi": "मुझे ऐसा कोई विकल्प दिखाई नहीं दे रहा है। ",
+          "rank": 2,
+          "id": 258,
+          "childrenMessages": [],
+          "heading": "I don\u2019t see such an option",
+          "parentId": 256
+        },
+        {
+          "descriptionHindi": "<p>इंतजार नहीं करना चाहते हैं? आप रिचार्ज कर के बिना किसी प्रतीक्षा समय के किसी भी ज्योतिषी से बात कर सकते हैं।<br />(मुक्त ग्राहकों के कारन ट्रैफ़िक बहुत अधिक होगा। कृपया प्रतीक्षा करें या कुछ समय बाद वापस आएं)&nbsp;</p>",
+          "description": "<p>Don't want to wait? You can recharge and talk to any astrologer without any waiting time.<br />(Traffic will be very high due to free customers. Please wait or come back after some time)&nbsp;</p>",
+          "headingHindi": "बहुत लम्बा प्रतीक्षा समय का समय",
+          "rank": 3,
+          "id": 259,
+          "heading": "Too much wait time"
+        },
+        {
+          "descriptionHindi": "<p>नि: शुल्क सत्र यह जानने के लिए है कि ऐप कैसे काम करता है और हम इस सत्र में सिर्फ एक प्रश्न का उत्तर देते हैं।</p><p>यदि ज्योतिषी ने किसी प्रश्न का उत्तर नहीं दिया तो कृपया हमें बताएं।</p>",
+          "description": "<p>The free session is to learn how the app works and we answer just one question in this session.</p><p>If the astrologer did not answer any question please contact us Tell me.</p>",
+          "headingHindi": "मुक्त सत्र से अप्रसन्न",
+          "id": 260,
+          "childrenMessages": [],
+          "heading": "Unhappy with the free session"
+        },
+        {
+          "descriptionHindi": "<p>आपका सत्र आपके खाते में तब तक रहता है जब तक आप उसका उपयोग नहीं करते।<br />&nbsp;</p>",
+          "description": "<p>Your session remains in your account until you use it.<br />&nbsp;</p>",
+          "headingHindi": "सत्र छूट गया",
+          "rank": 5,
+          "id": 261,
+          "heading": " Missed the session "
+        }
+      ],
+      "heading": "First Free Session"
+    },
+    {
+      "headingHindi": "पिछला आर्डर ",
+      "rank": 1,
+      "id": 404,
+      "childrenMessages": [
+        {
+          "headingHindi": "अलग भविष्यवाणी प्राप्त हुई ",
+          "rank": 7,
+          "id": 411,
+          "heading": "Got a different prediction"
+        },
+        {
+          "headingHindi": "मुझेसे गलत रूप से शुल्क लिया गया ",
+          "rank": 2,
+          "id": 413,
+          "heading": "I was charged incorrectly"
+        },
+        {
+          "descriptionHindi": "<p>संभावित कारण:</p><p>ज्योतिषी धीमा था और उसे उत्तर देने में कुछ समय लगा।</p>",
+          "description": "<p>Possible reasons:</p><p>Astrologer was slow and took some time to reply.</p>",
+          "headingHindi": "ज्योतिषी ने जवाब नहीं दिया",
+          "rank": 4,
+          "id": 415,
+          "heading": "Astrologer didn't answer"
+        },
+        {
+          "headingHindi": "अतिरिक्त समस्या ",
+          "rank": 11,
+          "id": 416,
+          "heading": "Some other issue"
+        }
+      ],
+      "heading": "Previous Order"
+    },
+    {
+      "headingHindi": "पेमेंट फेल",
+      "rank": 2,
+      "id": 79822,
+      "childrenMessages": [
+        {
+          "headingHindi": "मेरा पेमेंट फेल हो रहा है ",
+          "rank": 0,
+          "id": 79825,
+          "heading": "My payment is getting failed."
+        },
+        {
+          "headingHindi": "मेरा भुगतान मेरे बैंक खाते से डेबिट हो गया लेकिन मेरे एस्ट्रोटॉक वॉलेट में नहीं आया।",
+          "rank": 0,
+          "id": 79826,
+          "heading": "My payment got debited from my Bank account but was not added in my vedaz wallet."
+        }
+      ],
+      "heading": "Payment Failure"
+    },
+    {
+      "headingHindi": "तकनीकी समस्या ",
+      "rank": 3,
+      "id": 270,
+      "childrenMessages": [
+        {
+          "headingHindi": "मुझे ज्योतिषी का फोन नहीं आ रहा है",
+          "rank": 0,
+          "id": 271,
+          "heading": "Not getting call from Astrologer"
+        },
+        {
+          "headingHindi": "चैट / कॉल शुरू करने के लिए न्यूनतम बैलेंस?",
+          "rank": 1,
+          "id": 272,
+          "heading": "Minimum balance to start chat/call?"
+        },
+        {
+          "headingHindi": "लॉग इन करने में असमर्थ ",
+          "rank": 3,
+          "id": 273,
+          "heading": "Unable to login"
+        },
+        {
+          "headingHindi": "मेरा फ़ोन नंबर बदलें",
+          "rank": 2,
+          "id": 275,
+          "heading": "Change my Phone number"
+        },
+        {
+          "descriptionHindi": "<p>1. अगर आप INR में भुगतान करना चाहते हैं, तो आप पैसे जोड़ें स्क्रीन से अपनी मुद्रा चुन सकते हैं और भुगतान कर सकते हैं</p><p>2.&nbsp; वर्तमान में हम निम्नलिखित मुद्राओं का समर्थन करते हैं: INR, USD, AED, GBP, CAD, SGD, AUD, ZAR, EUR।</p>",
+          "description": "<ol>\t<li>\u200b\u200bIf you want to pay in INR,&nbsp;you can change your currency from Add money screen &amp; make the payment</li>\t<li>Currently, we support the following currencies: INR, USD, AED, GBP, CAD, SGD, AUD, ZAR, and EUR.</li></ol><p>&nbsp;</p>",
+          "headingHindi": "यूएसडी या अन्य मुद्राओं में मूल्य प्राप्त करना, जब मैं भारत में हूं",
+          "rank": 6,
+          "id": 276,
+          "heading": "Getting prices in USD or other currencies, when I am in India"
+        },
+        {
+          "headingHindi": "समस्या यहाँ लिखित नहीं है।",
+          "rank": 7,
+          "id": 277,
+          "heading": " Issue not mentioned here."
+        },
+        {
+          "headingHindi": "नोटिफिकेशन नहीं मिल रही हैं",
+          "rank": 4,
+          "id": 417,
+          "heading": "Not getting notifications"
+        }
+      ],
+      "heading": "Technical Issue"
+    },
+    {
+      "headingHindi": "ज्योतिषी संबंधित समस्या ",
+      "rank": 5,
+      "id": 290,
+      "childrenMessages": [
+        {
+          "headingHindi": "ज्योतिषी के लिए रिव्यु कैसे लिखें?",
+          "rank": 1,
+          "id": 295,
+          "heading": "Review an astrologer"
+        },
+        {
+          "headingHindi": "वह कब ऑनलाइन आएंगे/आएंगी?",
+          "rank": 2,
+          "id": 432,
+          "heading": "When will he/she come online?"
+        },
+        {
+          "headingHindi": "भाषा या कौशल के अनुसार ज्योतिषी की आवश्यकता है ",
+          "rank": 9,
+          "id": 433,
+          "heading": "Search/filter astrologers"
+        },
+        {
+          "headingHindi": "एक ज्योतिषी की रिपोर्ट करें",
+          "rank": 10,
+          "id": 440,
+          "heading": "Report an Astrologer"
+        },
+        {
+          "descriptionHindi": "<p>यदि ज्योतिषी ने आपको उपाय भेजने का वादा किया है, तो कृपया 24 घंटे प्रतीक्षा करें।</p><p>आप अपने ऑर्डर इतिहास से अपने उपचार की जांच कर सकते हैं</p>",
+          "description": "<p>If the astrologer has promised to send you the remedies, please wait for 24 hours.</p><p>You can check your remedies from&nbsp;your order history</p><p>If you haven&#39;t received it, then please connect with the astrologer assistant from the astrologer profile.</p>",
+          "headingHindi": "मुझे अभी तक इलाज नहीं मिला",
+          "rank": 3,
+          "id": 2814,
+          "heading": "Didn't receive remedies"
+        },
+        {
+          "descriptionHindi": "<p>प्रतीक्षा समय एक अनुमानित गणना है और बदल सकता है</p><p>1. यदि प्रतीक्षा सूची में आपसे आगे का उपयोगकर्ता अपने सत्र के दौरान रिचार्ज करता है</p><p>2. यदि आपके आगे का उपयोगकर्ता अपना सत्र याद करता है</p><p>3. यदि कोई उपयोगकर्ता जो पहले एक सत्र से चूक गया था, तो खुद को उपलब्ध के रूप में चिह्नित करता है। ऐसे में उसे प्राथमिकता मिलती है।</p>",
+          "description": "<p>Wait time is an approximation calculation and can change :</p><p>1. If user ahead of you in the waitlist does a recharge during his session</p><p>2. If user ahead of you misses his session</p><p>3. If any user who had missed a session earlier, marks himself available. In this case, he gets priority.</p>",
+          "headingHindi": "प्रतीक्षा समय बढ़ रहा है",
+          "rank": 4,
+          "id": 2815,
+          "heading": "My wait time is increasing "
+        },
+        {
+          "descriptionHindi": "<p>यदि आप पहले से जुड़े हुए ज्योतिषी को कोई संदेश भेजना चाहते हैं, तो कृपया उसे ज्योतिषी सहायक चैट पर भेजें जो ज्योतिषी प्रोफ़ाइल से उपलब्ध है।</p><p>यदि वह विकल्प उपलब्ध नहीं है, तो आप ज्योतिषी के नाम के साथ अपना संदेश ग्राहक सहायता को भेज सकते हैं</p>",
+          "description": "<p>In case you want to send any message to the astrologer you have connected with before, please send it on astrologer assistant chat which is available from the astrologer profile.</p><p>If that option is not available, you can send your message to customer support along with the name of the astrologer&nbsp;</p>",
+          "headingHindi": "ज्योतिषी को संदेश भेजें",
+          "rank": 5,
+          "id": 2816,
+          "heading": "Send message to astrologer"
+        }
+      ],
+      "heading": "Astrologer Related"
+    },
+    {
+      "headingHindi": "लाइव इवेंट संबंधित",
+      "rank": 6,
+      "id": 2760,
+      "childrenMessages": [
+        {
+          "descriptionHindi": "<p>1. ज्योतिषी के लाइव आने पर सूचना पाने के लिए आपको उनका अनुसरण करना चाहिए।</p><p>2. आप या तो उनकी प्रोफाइल से या उनके लाइव इवेंट से उन्हें फॉलो कर सकते हैं।</p>",
+          "description": "<p>1. You must follow the astrologer to get notifiefd whenever they come live.</p><p>2. You can follow them either from their profile or from their live event.</p>",
+          "headingHindi": "वह कब लाइव आएगा?",
+          "rank": 0,
+          "id": 2763,
+          "heading": "When will he/she come live?"
+        },
+        {
+          "headingHindi": "कुछ अन्य लाइव मुद्दे",
+          "rank": 13,
+          "id": 2766,
+          "heading": "Some other live issues"
+        },
+        {
+          "descriptionHindi": "<p>हां, आप ऐप के अंदर या अन्य लाइव इवेंट में नेविगेट करने के लिए स्वतंत्र हैं या किसी अन्य ऐप का उपयोग कर सकते हैं। जब आपकी बारी आएगी तो हमारा सिस्टम आपको कॉल करेगा।</p>",
+          "description": "<p>Yes, you are free to navigate inside the app or to other live events or may use any other app. Our system will call you, when your turn comes.</p>",
+          "headingHindi": "अगर मैं ईवेंट छोड़ दूं तो क्या मुझे कॉल आएगा?",
+          "rank": 1,
+          "id": 3339,
+          "heading": "Will I get a call if I leave the event?"
+        },
+        {
+          "descriptionHindi": "<p>चिंता न करें, अगर ज्योतिषी ऑफ़लाइन हो जाता है क्योंकि आपसे इसके लिए कोई शुल्क नहीं लिया जाएगा और ज्योतिषी के दोबारा लाइव होने पर आपके सत्र को भी प्राथमिकता दी जाएगी। जब भी ज्योतिषी अगली बार लाइव होंगे, आपको सूचित किया जाएगा और जब भी आप उपलब्ध हों, आप अपनी कॉल फिर से शुरू कर सकते हैं।</p>",
+          "description": "<p>Do not worry, if the astrologer goes offline as you won&#39;t be charged for it and your session shall also be prioritised when the astrologer goes live again. Whenever the astrologer goes live next, you will be notified and you can resume your call whenever you&#39;re available.</p>",
+          "headingHindi": "मैं प्रतीक्षा सूची में शामिल हो गया लेकिन ज्योतिषी ऑफ़लाइन हो गया",
+          "rank": 2,
+          "id": 3340,
+          "heading": "I joined waitlist but astrologer went offline"
+        },
+        {
+          "descriptionHindi": "<p>यदि आप कॉल प्राप्त नहीं कर सके, तो चिंता न करें, आप किसी भी समय अपना कॉल फिर से शुरू कर सकते हैं और हम आपको पहली प्राथमिकता देंगे!</p>",
+          "description": "<p>Incase you couldn&#39;t receive the call, dont worry, you can resume your call anytime and we&#39;ll give you the first priority!</p>",
+          "headingHindi": "मेरे पास कॉल आया लेकिन रिसीव नहीं कर सका",
+          "rank": 3,
+          "id": 3341,
+          "heading": "I got a call but couldn't receive it"
+        },
+        {
+          "descriptionHindi": "<p>यदि आपकी कॉल एक मिनट से भी कम समय में कट जाती है, तो आप अगले 30 मिनट के भीतर ज्योतिषी की प्रतीक्षा सूची में फिर से शामिल हो सकते हैं और हमारी प्रणाली आपको पहली प्राथमिकता देगी।</p>",
+          "description": "<p>Incase your call got disconnected in less than one minute, you can rejoin the waitlist of the astrologer within the next 30 mins and our system will give you the first priority</p>",
+          "headingHindi": "मेरे पास फोन आया लेकिन डिस्कनेक्ट हो गया",
+          "rank": 4,
+          "id": 3342,
+          "heading": "I got the call but it got disconnected"
+        },
+        {
+          "descriptionHindi": "<p>1.&nbsp;आप ज्योतिषी की प्रोफाइल से किसी ज्योतिषी की रिपोर्ट कर सकते हैं और उसे ब्लॉक कर सकते हैं।</p><p>2.&nbsp;इसी प्रकार आप सेटिंग विकल्प से अवरुद्ध ज्योतिषियों की सूची देख सकते हैं।</p>",
+          "description": "<p>1.&nbsp;You can report and block an astrologer from the astrologer&#39;s profile by clicking on the three dots on the top right section .</p><p>2.&nbsp;Similarly you can view the list of blocked astrologers from Settings option.</p><p>&nbsp;</p>",
+          "headingHindi": "ज्योतिषी की रिपोर्ट करें",
+          "rank": 5,
+          "id": 3343,
+          "heading": "Report an astrologer"
+        },
+        {
+          "descriptionHindi": "<p>हो सकता है कि आपके संदेश ज्योतिषी या अन्य उपयोगकर्ताओं को दिखाई न दें क्योंकि हो सकता है कि आपको किसी कारणवश ज्योतिषी ने ब्लॉक कर दिया हो। अधिक जानकारी के लिए आप ग्राहक सहायता से संपर्क कर सकते हैं।</p>",
+          "description": "<p>Your messages might not be visible to the astrologer or other users because you might have been blocked by the astrologer due to some reason. You can contact customer support for more information.</p>",
+          "headingHindi": "मेरे संदेश किसी को दिखाई नहीं दे रहे हैं",
+          "rank": 6,
+          "id": 3344,
+          "heading": "My messages are not visible to anyone"
+        },
+        {
+          "descriptionHindi": "<p>1. कृपया जांचें कि क्या आप ज्योतिषी का अनुसरण कर रहे हैं। आप ज्योतिषी प्रोफाइल से जांच सकते हैं।<br />2. कृपया जांचें कि क्या आपने फोन सेटिंग से एस्ट्रोटॉक को अधिसूचना की अनुमति दी है। अगर इसे ढूंढना बहुत मुश्किल है, तो कृपया ऐप को फिर से इंस्टॉल करें!&quot;</p>",
+          "description": "<p>1. Please check if you are following the astrologer. You can check if from the astrologer profile.<br />2. Please check if you have given notification permission to Vedaz from the phone settings. If it is too difficult to find, please reinstall the app!</p>",
+          "headingHindi": "लाइव के लिए सूचना प्राप्त नहीं हुई",
+          "rank": 7,
+          "id": 3346,
+          "heading": "Didn't receive notification for live "
+        },
+        {
+          "descriptionHindi": "<p>आप टॉप लेफ्ट पोजीशन सेक्शन पर क्लिक करके ज्योतिषी प्रोफाइल पर जा सकते हैं और फिर उसी ज्योतिषी की चैट या कॉल की प्रतीक्षा सूची में शामिल हो सकते हैं। हालाँकि, आपको सत्र तभी मिलेगा जब ज्योतिषी लाइव इवेंट से ऑफ़लाइन हो जाएगा और निजी सत्रों के लिए ऑनलाइन आएगा।</p>",
+          "description": "<p>You can go to the astrologer profile by clicking on top left position section and then join the waitlist for chat or call of the same astrologer. However, you will get the session only when the astrologer goes offline from the live event and comes online for private sessions.</p>",
+          "headingHindi": "मैं लाइव ज्योतिषी के साथ निजी बात करना चाहता हूँ",
+          "rank": 8,
+          "id": 3347,
+          "heading": "I want to talk private with the live astrologer"
+        },
+        {
+          "descriptionHindi": "<p>दान का पढ़ने से कोई लेना-देना नहीं है क्योंकि यह आपकी मर्जी से किया जाता है। हालांकि, आप धनवापसी के लिए ग्राहक सहायता के लिए अनुरोध कर सकते हैं और टीम आपकी चिंता को देखने और यदि संभव हो तो धनवापसी को संसाधित करने में मदद कर सकती है।</p>",
+          "description": "<p>The donations have nothing to do with reading as it is done out of your own will. However, you can raise a request to customer support for the refund and the team can help look into your concern and process the refund if possible.</p>",
+          "headingHindi": "मैंने दान किया लेकिन पढ़ने को नहीं मिला",
+          "rank": 0,
+          "id": 3349,
+          "heading": "I donated but didn't get reading"
+        },
+        {
+          "descriptionHindi": "<p>यदि आप 5 या अधिक ज्योतिषियों द्वारा ब्लॉक किए गए हैं तो आप लाइव सत्र में शामिल नहीं हो पाएंगे। अधिक जानकारी के लिए कृपया ग्राहक सहायता से संपर्क करें</p>",
+          "description": "<p>You won&#39;t be able to join live sessions if you are blocked by 5 or more astrologers. Please contact customer support for more information</p>",
+          "headingHindi": "मैं लाइव सत्र में शामिल होने में असमर्थ हूं",
+          "rank": 10,
+          "id": 3350,
+          "heading": "I am unable to join live sessions"
+        }
+      ],
+      "heading": "Live event related "
+    },
+    {
+      "headingHindi": "ऑफ़र और कूपन",
+      "rank": 10,
+      "id": 214,
+      "childrenMessages": [
+        {
+          "descriptionHindi": "<p>कूपन कोड भुगतान विवरण स्क्रीन पर भुगतान करने से ठीक पहले &quot;कूपन कोड लागू करें&quot; या &quot;अन्य कूपन लागू करें&quot; पर क्लिक करके लागू किया जा सकता है।</p>",
+          "description": "<p>Coupon code can be applied just before making the payment on payment details screen by clicking on &ldquo;Apply coupon code&rdquo; or &ldquo;Apply another coupon&quot;</p>",
+          "headingHindi": "कूपन कैसे अप्लाई करें?",
+          "rank": 0,
+          "id": 3352,
+          "heading": "How to apply coupon?"
+        },
+        {
+          "descriptionHindi": "<p>आप ऐड मनी स्क्रीन से चेक कर सकते हैं, हम विभिन्न रिचार्ज मूल्यवर्ग पर कैशबैक प्रदान करते हैं। आप&nbsp;बड़ा&nbsp;रिचार्ज के साथ जाना चुन सकते हैं क्योंकि आपके वॉलेट की आजीवन वैधता है</p><p>कोई कूपन कोड की आवश्यकता नहीं है।</p>",
+          "description": "<p>You can check from add money screen, we provide cashback on various recharge denominations. You can choose to go with a bigger recharge as your wallet has lifetime validity.</p><p>No Coupon code is required.</p>",
+          "headingHindi": "मुझे ऑफ़र और छूट चाहिए",
+          "rank": 0,
+          "id": 3353,
+          "heading": "I need offers &amp; discounts"
+        },
+        {
+          "descriptionHindi": "<p>बहुत सारे ज्योतिषी समय-समय पर अपने प्रोफाइल पर छूट देते हैं। उन छूटों के बारे में सूचित करने के लिए कृपया उनका अनुसरण करें। आप ज्योतिषियों को भी फ़िल्टर कर सकते हैं जो ज्योतिषी सूची स्क्रीन के शीर्ष दाईं ओर फ़िल्टर आइकन से छूट चला रहे हैं।</p>",
+          "description": "<p>A lot of astrologers run discounts on their profile from time to time. Please follow them to get notified about those disccounts. You may also filter the astrologers who are running discounts from the filter icon on the top right of the astrologer list screen.</p>",
+
+          "headingHindi": "मुझे ज्योतिषियों पर छूट चाहिए",
+          "rank": 2,
+          "id": 3355,
+          "heading": "I need discount on astrologers"
+        },
+        {
+          "headingHindi": "ऑफ़र या कूपन के बारे में प्रश्न?",
+          "rank": 4,
+          "id": 3356,
+          "heading": "Queries about offer or coupons?"
+        }
+      ],
+      "heading": "Offers & Coupons "
+    },
+    {
+      "headingHindi": " सामान्य प्रश्न",
+      "rank": 11,
+      "id": 331,
+      "childrenMessages": [
+        {
+          "headingHindi": "हम ज्योतिषियों को कैसे नियुक्त करते हैं?",
+          "rank": 1,
+          "id": 367,
+          "heading": "How do we hire astrologers?"
+        },
+        {
+          "headingHindi": "मेरे वॉलेट को कैसे रिचार्ज करें?",
+          "rank": 2,
+          "id": 368,
+          "heading": "How to recharge my wallet?"
+        },
+        {
+          "headingHindi": "ज्योतिषी के साथ चैट या कॉल करें",
+          "rank": 3,
+          "id": 369,
+          "heading": "Chat or Call with Astrologer"
+        },
+        {
+          "headingHindi": "एक रिपोर्ट पूछें ",
+          "rank": 5,
+          "id": 370,
+          "heading": "Ask Report"
+        },
+        {
+          "headingHindi": "वेटलिस्ट क्या है? व्यस्त, ऑनलाइन और ऑफ़लाइन स्थिति। ",
+          "rank": 7,
+          "id": 372,
+          "heading": "What is waitlist? Busy, Online &amp; Offline status."
+        },
+        {
+          "headingHindi": "आर्डर हिस्ट्री ",
+          "rank": 6,
+          "id": 373,
+          "heading": "Order History"
+        },
+        {
+          "descriptionHindi": "<p>यदि आप अपने करियर, प्रेम, विवाह आदि से संबंधित प्रश्न पूछना चाहते हैं, तो आप मुख्य चैट सूची से सीधे ज्योतिषी से बात कर सकते हैं। अपना परामर्श शुरू करने के लिए, <a href=\"https://vedaz.com/chat-with-astrologer\">click here</a></p>",
+          "description": "<p>If you wish to ask&nbsp;questions related to your career, love, marriage etc , you can directly talk to astrologer from the main chat list. To start your consultation, <a href=\"https://vedaz.com/chat-with-astrologer\">click here</a></p>",
+          "headingHindi": "ज्योतिषी से कैसे बात करें?",
+          "rank": 4,
+          "id": 2817,
+          "heading": "How to talk to an astrologer?"
+        },
+        {
+          "description": "<p>You can sign up as an astrologer from <a href=\"https://vedaz.com/signup\">here</a>.</p>",
+          "headingHindi": "एक ज्योतिषी के रूप में साइन अप करें",
+          "rank": 8,
+          "id": 3325,
+          "heading": "Sign up as an astrologer "
+        },
+        {
+          "descriptionHindi": "<p>आप भाषा बदलने के लिए या सेटिंग स्क्रीन से अपने ऐप की भाषा होम स्क्रीन से ऊपरी दाएं आइकन से बदल सकते हैं। वर्तमान में हम केवल एंड्रॉइड में अंग्रेजी, हिंदी, पंजाबी, मराठी, तेलुगु, कन्नड़, बंगाली भाषाओं का समर्थन करते हैं।</p>",
+          "description": "<p>You can change your app language from home screen from the top right icon for change language or from the settings screen. Currently we support English, Hindi, Punjabi, Marathi, Telugu, Kannada, Bengali languages in Android only.</p>",
+          "headingHindi": "मेरे ऐप की भाषा बदलें",
+          "rank": 9,
+          "id": 3326,
+          "heading": "Change my app language"
+        },
+        {
+          "descriptionHindi": "<p>आप सेटिंग स्क्रीन से अपना खाता हटा सकते हैं। कृपया ध्यान दें: यदि आप अपना खाता हटाते हैं तो आपका सारा डेटा मिटा दिया जाएगा और फिर से बहाल नहीं किया जा सकता है।</p>",
+          "description": "<p>You can delete your account from Settings screen. Please note : All your data will be erased if you delete your account and cannot be restored again.</p>",
+          "headingHindi": "मेरा एकाउंट हटा दो",
+          "rank": 10,
+          "id": 3327,
+          "heading": "Delete my account"
+        },
+        {
+          "descriptionHindi": "<p>आप वॉलेट आइकन पर क्लिक करके अपने वॉलेट को रिचार्ज कर सकते हैं। आप उन संप्रदायों को चुन सकते हैं जिनके लिए आप रिचार्ज करना चाहते हैं और लेनदेन को पूरा करने के लिए भुगतान विधि चुन सकते हैं।</p>",
+          "description": "<p>You can recharge your wallet by clicking on wallet icon. You can choose denominations you would like to recharge for and choose the payment method to complete the transaction.</p>",
+          "headingHindi": "कैसे करें रिचार्ज?",
+          "rank": 11,
+          "id": 3328,
+          "heading": "How to recharge?"
+        },
+        {
+          "descriptionHindi": "<p>आप मुफ्त कुंडली पर क्लिक कर सकते हैं और अपनी मुफ्त कुंडली बनाने के लिए नाम, जन्मतिथि, लिंग, जन्म स्थान और जन्म समय जैसे विवरण दर्ज कर सकते हैं।</p>",
+          "description": "<p>You can click on free kundli and enter your details such as name, dob, gender, place of birth and time of birth to generate your free kundli.</p>",
+          "headingHindi": "मेरी मुफ्त कुंडली कैसे उत्पन्न करें?",
+          "rank": 12,
+          "id": 3329,
+          "heading": "How to generate my free kundli?"
+        },
+        {
+          "descriptionHindi": "<p>होम स्क्रीन से दैनिक राशिफल आइकन पर क्लिक करें और अपनी राशि चुनें। अपनी राशि का चयन करने के बाद, आप अपना दैनिक, साप्ताहिक, मासिक और वार्षिक राशिफल देख पाएंगे।</p>",
+          "description": "<p>Click on daily horoscope icon from the home screen and choose your zodiac sign. After selecting your sign, you&#39;ll be able to see your daily, weekly, monthly and yearly horoscope.</p>",
+          "headingHindi": "अपना दैनिक राशिफल कैसे जांचें?",
+          "rank": 13,
+          "id": 3330,
+          "heading": "How to check my daily horoscope?"
+        },
+        {
+          "descriptionHindi": "<p>आप होम स्क्रीन से कुंडली मिलान आइकन पर क्लिक कर सकते हैं और अपने कुंडली विवरण के साथ पार्टनर की कुंडली विवरण प्रदान कर सकते हैं। हम 36 में से मिलान बिंदु दिखाएंगे और सुझाव देंगे कि क्या विवाह अनुकूल है।</p>",
+          "description": "<p>You can click on kundli matching icon from the home screen and provide your kundli details along with the partner&#39;s kundli details. We will show the matching points out of 36 and suggest if the marriage is favorable.</p>",
+          "headingHindi": "मेरी कुंडली का मिलान कैसे करें?",
+          "rank": 14,
+          "id": 3331,
+          "heading": "How to match my Kundli?"
+        },
+        {
+          "descriptionHindi": "<p>आप जिस भी ज्योतिषी से बात की है उसका मूल्यांकन कर सकते हैं। और आप ऑर्डर इतिहास से या ज्योतिषी प्रोफाइल पर जाकर रेटिंग की जांच कर सकते हैं। आप इसे केवल ऑर्डर इतिहास से संपादित कर सकते हैं।</p>",
+          "description": "<p>You can rate any astrologer you have spoken to. And you can check the rating either from the order history or by going to the astrologer profile. You can edit it only from the order history.</p>",
+          "headingHindi": "मैं अपनी रेटिंग कैसे जांच सकता हूं?",
+          "rank": 15,
+          "id": 3332,
+          "heading": "Where can I check my ratings?"
+        },
+        {
+          "descriptionHindi": "<p>एस्ट्रोटॉक ऐप में विभिन्न मुफ्त सेवाएं प्रदान करता है जैसे दैनिक राशिफल, कुंडली मिलान, मुफ्त कुंडली, दैनिक पंचांग, \u200b\u200bअपने ग्रहों को ट्रैक करना, अंक ज्योतिष, लाइव इवेंट आदि।</p>",
+          "description": "<p>Vedaz provides various free services in the App such as Daily horoscope, Kundli matching, Free kundli, Daily Panchang, Track your planets, Numerology, Live events etc</p>",
+          "headingHindi": "एस्ट्रोटॉक की मुफ्त सेवाएं",
+          "rank": 16,
+          "id": 3333,
+          "heading": "Free Services of Vedaz"
+        },
+        {
+          "descriptionHindi": "<p>आप उपहार विकल्प के तहत ज्योतिषी की प्रोफाइल स्क्रीन से उपहार/दान भेज सकते हैं</p>",
+          "description": "<p>You can send gift/donation from the profile screen of the astrologer, under the gift option</p>",
+          "headingHindi": "मैं ज्योतिषी को उपहार/दान भेजना चाहता हूँ",
+          "rank": 17,
+          "id": 3334,
+          "heading": "I want to send gift/donation to astrologer"
+        },
+        {
+          "descriptionHindi": "<p>कभी-कभी ग्राहक तत्काल ज्योतिषियों से जुड़ना चाहते हैं लेकिन ज्योतिषी उस समय ऑनलाइन नहीं होते हैं। इसलिए, एस्ट्रोटॉक ने ज्योतिषियों को केवल आपातकालीन सत्रों के लिए खुद को उपलब्ध चिह्नित करने का विकल्प प्रदान किया है ताकि वे ग्राहकों की महत्वपूर्ण कॉल ले सकें।</p>",
+          "description": "<p>Sometimes the customers want to connect with the astrologers urgently but the astrologers are not online at that time. Therefore, Vedaz has provided an option to the astrologers to mark themselves available only for emergency sessions so that they can take important calls of the customers.</p>",
+          "headingHindi": "आपातकालीन सत्र क्या है?",
+          "rank": 17,
+          "id": 3335,
+          "heading": "What is emergency session?"
+        },
+        {
+          "descriptionHindi": "<p>यदि आप किसी ज्योतिषी की उपलब्धता की जांच करना चाहते हैं या परामर्श के अलावा किसी अन्य चीज के बारे में नोट्स का आदान-प्रदान करना चाहते हैं, तो आप ज्योतिषी के निजी सहायक को टेक्स्ट कर सकते हैं और उनके साथ समन्वय कर सकते हैं। यह सुविधा केवल उन ज्योतिषियों के प्रोफाइल में उपलब्ध है, जिनके साथ आपने एक भुगतान सत्र के पूर्व में संपर्क किया है।</p>",
+          "description": "<p>If you want to check the availability of any astrologer or exchange notes about anything other than the consultation, then you can text the personal assistant of the astrologer and coordinate with them. This feature is only available in the profile of those astrologers, with whom you have contacted in the past of a paid session.</p>",
+          "headingHindi": "ज्योतिष सहायक क्या है?",
+          "rank": 18,
+          "id": 3336,
+          "heading": "What is astrologer assistant?"
+        },
+        {
+          "descriptionHindi": "<p>आप किसी भी ज्योतिषी से कॉल पर जुड़ने से पहले अपना फोन नंबर इंटेक फॉर्म से बदल सकते हैं। इंटेक फॉर्म में आपके द्वारा बताए गए नंबर पर हमारा सिस्टम आपको कॉल करेगा। हालाँकि, यदि आप पंजीकृत फ़ोन नंबर बदलना चाहते हैं, तो वह सुविधा फिलहाल उपलब्ध नहीं है।</p>",
+          "description": "<p>You can change your phone number from the intake form before connecting on the call with any astrologer. Our system will call you on the number you have mentioned in the intake form. However, if you want to change the registered phone number, that feature is not available at the moment.</p>",
+          "headingHindi": "क्या मैं अपना फ़ोन नंबर बदल सकता हूँ?",
+          "rank": 19,
+          "id": 3337,
+          "heading": "Can I change my phone number?"
+        },
+        {
+          "descriptionHindi": "<p>आप इस मामले में एक अनुमानित समय यानी दोपहर 12 बजे भर सकते हैं और कॉल पर ज्योतिषी को बता सकते हैं कि आप समय के बारे में निश्चित नहीं हैं। ज्योतिषी आपके अतीत के बारे में कुछ प्रश्न पूछ सकते हैं और आपको जन्म का सही समय बता सकते हैं (गणना करने में कुछ समय लग सकता है)। इसके अलावा, आप एक टैरो या एक मानसिक पाठक से जुड़ना चुन सकते हैं, जिसे आपके भविष्य की भविष्यवाणी करने के लिए आपके जन्म के समय की आवश्यकता नहीं है।</p>",
+          "description": "<p>You can fill an approximate time i.e. 12 noon in this case and let the astrologer know on the call that you are not sure about the time. Astrologer can ask a few questions about your past and can reveal the exact time of birth to you (It can take sometime to calculate). Other than this, you can choose to connect with a Tarot or a psychic reader who doesn&#39;t need your time of birth to predict your future.</p>",
+          "headingHindi": "अगर मुझे अपना जन्म समय नहीं पता तो क्या होगा?",
+          "rank": 20,
+          "id": 3338,
+          "heading": "What if I dont know my time of birth?"
+        }
+      ],
+      "heading": "General FAQs"
+    }
+  ],
+  "status": "success"
+}

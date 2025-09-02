@@ -1,0 +1,586 @@
+{
+  "sidebar": {
+    "button": "Recharge",
+    "kundli": "Kundli",
+    "kundliMatch": "Kundli Matching",
+    "compatibility": "Compatibility",
+    "loveCalculator": "Love Calculator",
+    "following": "Following",
+    "chats": "Chats",
+    "support": "Customer Support",
+    "blogs": "Blogs",
+    "settings": "Settings",
+    "logout": "Logout",
+    "login": "Login",
+    "horoscope": "Horoscope",
+    "temples": "Temples",
+    "palmReader": "Palm Reader",
+    "greeting": "Hello!",
+    "welcomeMsgNotSignedIn": "Welcome to Vedaz. Please login to avail all our services.",
+    "myProfile": "My Profile",
+    "community": "Community",
+    "refer": "Refer & Earn",
+    "palmreading": "Palm Reading",
+    "noAccessToCamera": "No access to camera"
+  },
+  "tools": {
+    "kundli": "Kundli",
+    "kundliMatch": "Kundli Matching",
+    "compatibility": "Compatibility",
+    "loveCalculator": "Love Calculator",
+    "blogs": "Blogs",
+    "horoscope": "Horoscope",
+    "temples": "Temples",
+    "palmReader": "Palm Reader",
+    "community": "Community",
+    "tools": "Tools"
+  },
+  "footer": {
+    "home": "Home",
+    "astrologers": "Astrologers",
+    "chats": "Chats",
+    "calls": "Calls",
+    "tools": "Tools",
+    "live": "Live",
+    "liveStreams": "Live Streams"
+  },
+  "profile": {
+    "screenHead": "Your Profile",
+    "name": "Name",
+    "phone": "Phone",
+    "gender": "Gender",
+    "genderType": {
+      "male": "Male",
+      "female": "Female"
+    },
+    "DOB": "Date of Birth",
+    "TOB": "Time of Birth",
+    "POB": "Place of Birth",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "pincode": "Pincode",
+    "placeHolders": {
+      "name": "Enter Your Name",
+      "phone": "Enter Your Phone Number",
+      "DOB": "Enter Your Date of Birth",
+      "TOB": "Enter Your Time of Birth",
+      "POB": "Enter Your Place of Birth",
+      "address": "Enter Your Address",
+      "city": "Enter Your City",
+      "state": "Enter Your State",
+      "pincode": "Enter Your Pincode"
+    },
+    "button": "Submit"
+  },
+  "login": {
+    "head": "Login",
+    "or": "Or",
+    "skip": "Skip",
+    "email": "Email",
+    "password": "Password",
+    "forgot password": "Forgot Pasword?",
+    "screen1": {
+      "labelPhone": "Enter your phone number",
+      "btn": "Send OTP",
+      "emailBtn": "Login with Email/Password"
+    },
+    "screen2": {
+      "email": "Enter Your Email",
+      "btn": "Sign In",
+      "OTPbtn": "Login with OTP"
+    },
+    "show": "Show"
+  },
+  "search": {
+    "screenHead": "Search",
+    "searchPlaceholder": "Search for astrologer, temple, blog etc ...",
+    "searchScreen": "Start Typing to search",
+    "atleastThreeletter": "Write at least three alphabets",
+    "noResult": "No result found",
+    "love": "Search Love...",
+    "careerAdvice": "Search Career Advice...",
+    "finances": "Search Finances...",
+    "relationshipTroubles": "Search Relationship Troubles...",
+    "moneyMatters": "Search Money Matters...",
+    "marriage": "Search Marriage...",
+    "astrologer": "Search for Astrologer"
+  },
+  "homePage": {
+    "heading1": "Welcome To The Future of Astrology",
+    "search": "Search Anything ...",
+    "bannerBtn1": "Chat Now",
+    "bannerBtn2": "Call Now",
+    "pageBtn1": "Chat with astrologer",
+    "pageBtn2": "Call with astrologer",
+    "sectionHead1": "Our Astrologers",
+    "sectionHead2": "Vedaz Blogs",
+    "sectionHead3": "Vedaz Nuggets : Big wisdom, small bites",
+    "chatWithOurAIAstrologers": "Consult AI Astrologers",
+    "VedicAstrologers": "Vedic astrologers",
+    "EnergyHealingMantraTherapy": "Energy healing (Mantra therapy)",
+    "TarotReaders": "Tarot Readers",
+    "vastuExperts": "Vastu Experts",
+    "numerologists": "Numerologists",
+    "palmists": "Palmists",
+    "dailyHoroscope": "Daily Horoscope",
+    "freeKundli": "Free Kundli",
+    "kundliMatching": "Kundli Matching",
+    "astrologyBlogs": "Astrology Blogs"
+  },
+  "astrologers": {
+    "screenHead": "Astrologers",
+    "sort": {
+      "all": "All",
+      "love": "Love",
+      "career": "Career",
+      "education": "Education",
+      "marriage": "Marriage",
+      "property": "Property",
+      "healing": "Healing",
+      "therapy": "Therapy",
+      "numero": "Numerologist",
+      "palmist": "Palmist"
+    },
+    "card": {
+      "order": "Orders",
+      "min": "min",
+      "years": "Years",
+      "experience": "Exp",
+      "follow": "Follow",
+      "unfollow": "Unfollow"
+    }
+  },
+  "filter": {
+    "All": "All",
+    "Love": "Love",
+    "Career": "Career",
+    "Education": "Education",
+    "Marriage": "Marriage",
+    "Health": "Health",
+    "Wealth": "Wealth",
+    "Finance": "Finance",
+    "Business": "Business",
+    "Legal": "Legal",
+    "Kids": "Kids",
+    "Property": "Property",
+    "Healing": "Healing",
+    "Numerology": "Numerology",
+    "Palmistry": "Palmistry",
+    "Akashic": "Akashic",
+    "Ramal": "Ramal",
+    "Philanthropy": "Philanthropy"
+  },
+  "horoscope": {
+    "screenHead": "Horoscope",
+    "time": {
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "weekly": "Weekly",
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "weekly-horoscope": "Weekly-horoscope",
+      "horoscope-today": "Horoscope-today",
+      "horoscope-tomorrow": "Horoscope-tomorrow",
+      "monthly-horoscope": "Monthly-horoscope",
+      "yearly-horoscope": "Yearly-horoscope"
+    },
+    "category": {
+      "love": "Love",
+      "career": "Career",
+      "health": "Health",
+      "money": "Money"
+    },
+    "sectHead1": "Weekly-Horoscope",
+    "sectHead2": "Our celebrity Astrologers"
+  },
+  "Temples": {
+    "screenHead": "Temples",
+    "templeDetailes": {
+      "about": "About",
+      "history": "History",
+      "architecture": "Architecture",
+      "significance": "Significance",
+      "timings": "timings",
+      "offerings": "Offerings",
+      "travel": "Travel",
+      "distance": "Distance"
+    }
+  },
+  "blogs": {
+    "screenHead": "Blogs",
+    "sections": {
+      "astrology_blog": "Astrology Blogs",
+      "temple_blog": "Temple Blogs",
+      "relationship_blog": "Relationship Blogs",
+      "puja_blog": "Puja Blogs"
+    },
+    "read more": "Read More"
+  },
+  "Recharge": {
+    "sectionHead": "Recharge",
+    "head": "Add Money to Wallet",
+    "availableBalance": "Available Balance",
+    "recharges": "Popular Recharges",
+    "extra": "Extra",
+    "discount": {
+      "title": "Have a Coupon Code?",
+      "placeholder": "Enter Coupon code",
+      "apply": "Apply",
+      "remove": "Remove",
+      "applied": "Coupon Applied:",
+      "bonus": "Bonus (Coupon: {{code}})",
+      "bonusDesc": "{{amount}} will be added to your wallet as bonus",
+      "error": "Failed to validate Coupon code",
+      "empty": "Please enter a Coupon code",
+      "minimum": "Coupon codes can only be applied on amounts of ₹500 or more"
+    }
+  },
+  "kundli": {
+    "screenHead": "Kundli",
+    "searchPlaceholder": "Search Kundli by name",
+    "button": "Create New Kundli",
+    "emptyText": "Your searched kundli will appear here",
+    "button1": "Next",
+    "button2": "Find your kundli",
+    "alertBirthLocation": "Please enter your birth location",
+    "alertSelectCity": "Please select a city from the suggestion list.",
+    "screen1": {
+      "head1": "Hey there !",
+      "head2": "What is your name?",
+      "inputPlaceholder": "Enter your name"
+    },
+    "screen2": {
+      "head1": "What is your gender?",
+      "gender": {
+        "male": "Male",
+        "female": "Female",
+        "other": "Other"
+      }
+    },
+    "screen3": {
+      "head1": "Enter you birth date"
+    },
+    "screen4": {
+      "head1": "Enter you birth time",
+      "checkbox": "Don't know my exact time of birth",
+      "note": "Note : Without time of birth, we can still achieve up to 80% of accurate predictions"
+    },
+    "screen5": {
+      "head1": "Where were you born?",
+      "inputPlaceholder": "Enter your birth place"
+    },
+    "finalScreen": {
+      "head1": "Kundli GPT - Get Your Detailed Birth Chart",
+      "finalDetailed": "Before we proceed to unveil your chart and planetary degrees, it's important to highlight the significance of the Kundli, also known as the birth chart. Your Kundli is more than just a collection of symbols—it's a unique map that reflects the cosmic energies present at the time of your birth. It offers valuable insights into your personality, life events, relationships, and spiritual path. As we explore your Kundli together, may it provide you with profound revelations and guidance on your journey of self-discovery and growth.",
+      "lagnChart": "Lagn Chart As Per Your Birth Details",
+      "planetary": "Planetary Degrees",
+      "navamsha": "Navamsha Chart",
+      "moonChart": "Moon Chart",
+      "vinshottari_mahadasha": "Vinshottari Mahadasha",
+      "vinshottari_antardasha": "Vinshottari Antardasha",
+      "planet": "Planet",
+      "from": "From",
+      "to": "To"
+    }
+  },
+  "Match Kundli": {
+    "screenHead": "Match Kundli",
+    "btn1": "Open Kundli",
+    "btn2": "New Matching",
+    "newMatch": {
+      "girlsDetailes": "Girl's Details",
+      "boysDetailes": "Boy's Details",
+      "btn": "Match Horoscope",
+      "name": "Name",
+      "birthDate": "Birth Date",
+      "birthTime": "Birth Time",
+      "birthPlace": "Birth Place",
+      "checkbox": "Don't know my exact time of birth",
+      "note": "Note : Without time of birth, we can still achieve up to 80% of accurate predictions",
+      "placeHolders": {
+        "name": "Enter Name",
+        "birthDate": "Enter Birth Date",
+        "birthTime": "Enter Birth Time",
+        "birthPlace": "Enter Birth Place"
+      },
+      "error": {
+        "allDetailes": "Please fill all fields",
+        "selectCity": "Please select a city from the suggestion list."
+      }
+    },
+    "openKundli": {
+      "inputPlaceholder": "Search Kundli by Name",
+      "recent": "Recently Opened",
+      "emptyText": "Your searched kundli will appear here"
+    },
+    "finalScreen": {
+      "screenHead": "Match Details",
+      "head": "Match Details"
+    },
+    "gunas": {
+      "Gun Name": "Gun Name",
+      "Male Value": "Male Value",
+      "Female Value": "Female Value",
+      "Points Obtained": "Points Obtained",
+      "Total Obtained": "Total Points",
+      "Area": "Area"
+    },
+    "total": "Total",
+    "36": "36",
+    "resultText1": "You got",
+    "resultText2": "gunas out of 36",
+    "consult": "Consult our astrologers for detailed information about your relationship",
+    "consultBtn": "Chat / Call Now"
+  },
+  "compatibility": {
+    "screenHead": "Compatibility",
+    "head1": "Relationship Compatibility",
+    "head2": "Check the compatibility between you and them!!",
+    "person1": "Person 1",
+    "person2": "Person 2",
+    "birthDate": "Enter Birth Date",
+    "genderOptions": {
+      "default": "-- Select Gender --",
+      "male": "Male",
+      "female": "Female",
+      "others": "Others",
+      "notDisclose": "Prefer not to disclose"
+    },
+    "btn": "MATCH NOW",
+    "head3": "All Sunsign Compatibility",
+    "compatibility": "Compatibility",
+    "error": {
+      "fillDetailes": "Fill all the fields"
+    },
+    "finalScreen": {
+      "compatibleTypes": {
+        "Friendship": "Friendship",
+        "Love": "Love",
+        "Sexual": "Sexual",
+        "Marriage": "Marriage",
+        "Communication": "Communication",
+        "Conclusion": "Conclusion"
+      },
+      "areYouCompatible": "Are you compatible",
+      "chooseZodiacSign": "Choose your and your partner's zodiac sign to check compatibility",
+      "yourSign": "Your sign",
+      "partnerSign": "Partner sign"
+    }
+  },
+  "loveCalculator": {
+    "screenHead": "Love Calculator",
+    "head1": "How Much Do You Love Your Partner?",
+    "head2": "Find out the love between you and them!",
+    "placeHolders": {
+      "firstName": "Enter Your Name",
+      "secondName": "Enter Your Partner's Name"
+    },
+    "male": "Male",
+    "female": "Female",
+    "btn": "CALCULATE LOVE %",
+    "description": "How much do you love your partner? Discover your love with our calculator. It compares names using parameters related to love, romance, and relationships for compatibility.",
+    "screen1": {
+      "screenHead": "Love Score",
+      "msg": "Check out my love compatibility score!",
+      "woah": "Wow!",
+      "shortReview": "Your bond is at its strongest peak. This will lead to a healthy relationship in future and a happy life time.",
+      "head": "Comprehensive Compatibility Analysis : Love, Sexual, Friendship, and Communication",
+      "bond": {
+        "love": "Love",
+        "communication": "Communication",
+        "friendship": "Friendship",
+        "sexual": "Sexual"
+      },
+      "loveData": {
+        "love1": "You may be experiencing a budding love but lack depth; understanding each other's emotional needs is crucial for growth. Your relationship has potential; investing time and effort can lead to deeper connections.",
+        "love2": "Your affection is present but requires nurturing; exploring shared interests and values can deepen the connection. Take the time to understand each other better; your relationship can blossom into something beautiful with patience and understanding.",
+        "love3": "Your love flourishes with shared experiences and mutual understanding; you find comfort and joy in each other's presence. Your relationship shows promise; continue to cherish and support each other as you grow together.",
+        "love4": "A strong bond forms the foundation of your love; mutual respect and admiration fuel your relationship's growth. Your connection is deep and meaningful; nurture it with love and understanding to create a lasting partnership.",
+        "love5": "Your love is profound and enduring; you cherish and support each other through life's journey, creating a deeply fulfilling connection. Your relationship is fantastic; continue to nurture your love and watch it flourish with time.",
+        "sexual1": "Your sexual chemistry may need exploration and understanding; open communication can enhance intimacy. Take the time to explore each other's desires and preferences; understanding and openness can lead to a more fulfilling physical connection.",
+        "sexual2": "Moderate attraction exists, providing opportunities for growth and exploration in intimacy. Embrace the opportunity to deepen your physical connection; exploring new experiences together can strengthen your bond.",
+        "sexual3": "Strong sexual chemistry ignites passion and desire; you enjoy fulfilling experiences together. Your sexual compatibility is a source of joy and excitement; continue to explore and celebrate your intimacy.",
+        "sexual4": "Your sexual compatibility is robust, creating a deeply satisfying and harmonious connection. Your physical connection is a testament to your strong bond; continue to prioritize and nurture your intimacy.",
+        "sexual5": "Sexual intimacy is profound and fulfilling, enhancing the bond between you on a profound level. Your sexual connection is exceptional; continue to embrace and cherish the depth of intimacy you share.",
+        "communication1": "Communication may be challenging for you, requiring patience and effort to understand each other's perspectives. Take the time to listen and empathize with each other; effective communication can strengthen your bond and resolve conflicts.",
+        "communication2": "Your conversations may need more depth and understanding; active listening can bridge communication gaps. Engage in meaningful conversations and seek to understand each other's viewpoints; effective communication is key to building a strong relationship foundation.",
+        "communication3": "Communication flows smoothly, fostering understanding and empathy between you. Your ability to communicate openly and honestly is a strength; continue to prioritize open dialogue to deepen your connection and resolve conflicts effectively.",
+        "communication4": "You communicate effectively, sharing thoughts and feelings with ease and openness. Your communication style promotes understanding and closeness; continue to nurture this aspect of your relationship to maintain a strong emotional connection.",
+        "communication5": "Communication is effortless and enriching, deepening the emotional connection and understanding between you. Your ability to communicate is exceptional; cherish and continue to foster this deep emotional connection in your relationship.",
+        "friendship1": "Your friendship may need nurturing; building trust and shared experiences can strengthen the bond. Invest time and effort into cultivating your friendship; a strong foundation of friendship can enhance all aspects of your relationship.",
+        "friendship2": "A budding friendship exists, providing opportunities for shared activities and deeper connection. Embrace the opportunity to deepen your friendship bond; shared experiences and mutual support can lay the groundwork for a strong and lasting relationship.",
+        "friendship3": "Your friendship is solid, characterized by mutual respect, trust, and support. Your friendship is a source of strength and joy; continue to nurture and cherish your bond as you navigate life's ups and downs together.",
+        "friendship4": "A strong friendship forms the backbone of your relationship, fostering companionship and loyalty. Your friendship is the cornerstone of your relationship; continue to prioritize and celebrate the bond you share.",
+        "friendship5": "Your friendship is exceptional, marked by understanding, laughter, and unwavering support through all life's challenges. Your friendship is a gift; continue to cherish and nurture the special connection you share."
+      },
+      "shareOn": "Share it on",
+      "social": {
+        "whatsapp": "Whatsapp",
+        "insta": "Instagram"
+      },
+      "error": {
+        "fillDetails": "Please Fill all details"
+      }
+    }
+  },
+  "following": {
+    "screenHead": "Following",
+    "emptyChat": {
+      "head1": "You're not following any astrologers yet!",
+      "head2": "Follow your favourite astrologers to see their profiles here"
+    }
+  },
+  "chats": {
+    "screenHead": "Chats",
+    "emptyChats": "No Chats Found",
+    "loadingChats": "Loading Chats...",
+    "loginNowToStartChatting": "Login Now to Start Chatting!",
+    "newChat": "New Chat",
+    "meetOurTrendingAstrologers": "Meet our Trending Astrologers",
+    "hey": "Hey",
+    "looksLikeyouhavenotmadeanychatsyet": "Looks Like you have not made any chats yet!"
+  },
+  "support": {
+    "screenHead": "Customer Support",
+    "btn": "Chat with customer support",
+    "screen1": {
+      "head1": "Select an option to start :",
+      "content": {
+        "1": "First Free Session",
+        "2": "Previous Order",
+        "3": "Payment Failure",
+        "4": "Technical Issue",
+        "5": "Astrologer Related",
+        "6": "Live event related",
+        "7": "AstroMall Related",
+        "8": "Offers & Coupons",
+        "9": "General FAQs",
+        "10": "Escalate the issue"
+      },
+      "inputPlaceholder": "Type a message..."
+    },
+    "deleteBtn": "Delete all",
+    "deleteAllBtn": "All tickets will get deleted. Are you sure you wish to proceed?",
+    "deleteTicketBtn": "Close and Delete the Ticket?",
+    "cancle": "Cancel",
+    "comfirm": "Confirm",
+    "chatScreen": {
+      "inputPlaceholder": "Type a message..."
+    }
+  },
+  "settings": {
+    "screenHead": "Settings",
+    "screenMode": {
+      "darkMode": "Dark Mode",
+      "lightMode": "Light Mode"
+    },
+    "language": "Change Language"
+  },
+  "astrologerProfile": {
+    "about": "About",
+    "show less": "show Less",
+    "show more": "show more",
+    "specialization": "Specialization",
+    "language": "Language",
+    "reviews&Recomm": "Reviews",
+    "rating": "Overall Rating",
+    "view all": "View all",
+    "reviews": "See all reviews",
+    "follow": "Follow",
+    "Screen1": {
+      "screenHead": "Enter your details",
+      "name": "Name",
+      "gender": "Gender",
+      "genderType": {
+        "Male": "Male",
+        "Female": "Female"
+      },
+      "DOB": "Date of Birth",
+      "TOB": "Time of Birth",
+      "POB": "Place of Birth",
+      "placeHolders": {
+        "name": "Enter Your Name",
+        "phone": "Enter Your Phone Number",
+        "TOB": "Enter Your Time of Birth",
+        "POB": "Enter Your Place of Birth",
+        "DOB": "Enter Your Date of Birth"
+      },
+      "problems": "My Problem",
+      "btnStart": "Start",
+      "btnWith": "with"
+    }
+  },
+  "extras": {
+    "sunsigns": {
+      "aries": "Aries",
+      "taurus": "Taurus",
+      "gemini": "Gemini",
+      "cancer": "Cancer",
+      "leo": "Leo",
+      "virgo": "Virgo",
+      "libra": "Libra",
+      "scorpio": "Scorpio",
+      "sagittarius": "Sagittarius",
+      "capricorn": "Capricorn",
+      "aquarius": "Aquarius",
+      "pisces": "Pisces"
+    },
+    "seeAll": "See All",
+    "and": "and",
+    "alsoCheck": "Also Check",
+    "chat": "Chat",
+    "call": "Call",
+    "home": "Home",
+    "astrologer": "Astrologers",
+    "horoscope": "Horoscope",
+    "temples": "Temples",
+    "blogs": "Blogs",
+    "also check": "Also check",
+    "submit": "Submit",
+    "compatibility": "Compatibility",
+    "readMore": "Read More"
+  },
+  "liveStream": {
+    "noActiveStreams": "No active livestreams available.",
+    "refresh": "Refresh",
+    "loadingStreams": "Loading streams..."
+  },
+  "helloIAm": "Hello! I am",
+  "name": "Name",
+  "myGenderIs": "My gender is",
+  "gender": "Gender",
+  "bornOn": "and I was born on",
+  "date": "Date",
+  "at": "at",
+  "time": "Time",
+  "inCity": "in the city of",
+  "city": "City",
+  "confirmAndSend": "Confirm and Send?",
+  "send": "Send",
+  "confirmBirthDetails": "Please confirm your birth details to get the most accurate result. Click \"Send\" to start talking to our expert AI Astrologer.",
+  "typeMessage": "Type your message...",
+  "selectGender": "Select Gender",
+  "selectCity": "Select Place of Birth",
+  "fillAllDetails": "Please fill in all required birth details, name, and gender before confirming.",
+  "gotIt": "Got it",
+  "fetchingResponse": "Our AI assistant is preparing a personalized response for you...",
+  "letsStartwhatgoingon": "Let's share what's going on...",
+  "post": "post",
+  "vedazcommunity": "Vedaz Community",
+
+  "community": {
+    "all": "All",
+    "career": "career",
+    "women's health": "women's Health",
+    "finances": "finances",
+    "health issues": "health issues",
+    "heartbreak": "heartbreak",
+    "relationships": "relationships",
+    "social": "social",
+    "marriage": "marriage",
+    "others": "others"
+  },
+  "nomorequestionstolead": "No more questions to load.",
+  "noquestionsfound": "No questions found. Pull to refresh."
+}
